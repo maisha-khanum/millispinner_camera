@@ -1,0 +1,37 @@
+[0.012s] Invoking command in '/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver -- -j12 -l12
+[0.069s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[0.070s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[0.070s] [35m[1mConsolidate compiler generated dependencies of target usb_camera_driver[0m
+[0.083s] [ 20%] Built target gtest_main
+[0.084s] [ 40%] Built target gtest
+[0.091s] [ 60%] Built target usb_camera_driver
+[0.103s] [35m[1mConsolidate compiler generated dependencies of target usb_camera_driver_node[0m
+[0.103s] [35m[1mConsolidate compiler generated dependencies of target usb_camera_driver_tests[0m
+[0.132s] [ 80%] Built target usb_camera_driver_tests
+[0.133s] [100%] Built target usb_camera_driver_node
+[0.148s] Invoked command in '/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver -- -j12 -l12
+[0.161s] Invoking command in '/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver
+[0.169s] -- Install configuration: ""
+[0.169s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/lib/libusb_camera_driver.so
+[0.170s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/lib/usb_camera_driver/usb_camera_driver_node
+[0.170s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/launch
+[0.170s] -- Installing: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/launch/4kcam_launch.py
+[0.170s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/launch/usb_camera_node.launch.py
+[0.170s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/launch/usb_camera_component.launch.py
+[0.170s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/ament_index/resource_index/package_run_dependencies/usb_camera_driver
+[0.171s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/ament_index/resource_index/parent_prefix_path/usb_camera_driver
+[0.171s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/environment/ament_prefix_path.sh
+[0.171s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/environment/ament_prefix_path.dsv
+[0.171s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/environment/path.sh
+[0.171s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/environment/path.dsv
+[0.171s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/local_setup.bash
+[0.171s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/local_setup.sh
+[0.172s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/local_setup.zsh
+[0.172s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/local_setup.dsv
+[0.172s] -- Installing: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/package.dsv
+[0.172s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/ament_index/resource_index/packages/usb_camera_driver
+[0.172s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/ament_index/resource_index/rclcpp_components/usb_camera_driver
+[0.172s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/cmake/usb_camera_driverConfig.cmake
+[0.172s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/cmake/usb_camera_driverConfig-version.cmake
+[0.172s] -- Up-to-date: /home/maxjo/millispinner_cam_testing/ms_cam/install/usb_camera_driver/share/usb_camera_driver/package.xml
+[0.174s] Invoked command in '/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver

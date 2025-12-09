@@ -1,0 +1,9 @@
+# CMake generated Testfile for 
+# Source directory: /home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/test
+# Build directory: /home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver/test
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(usb_camera_driver_tests "/usr/bin/python3" "-u" "/opt/ros/humble/share/ament_cmake_test/cmake/run_test.py" "/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver/test_results/usb_camera_driver/usb_camera_driver_tests.gtest.xml" "--package-name" "usb_camera_driver" "--output-file" "/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver/ament_cmake_gtest/usb_camera_driver_tests.txt" "--command" "/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver/test/usb_camera_driver_tests" "--gtest_output=xml:/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver/test_results/usb_camera_driver/usb_camera_driver_tests.gtest.xml")
+set_tests_properties(usb_camera_driver_tests PROPERTIES  LABELS "gtest" REQUIRED_FILES "/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver/test/usb_camera_driver_tests" TIMEOUT "60" WORKING_DIRECTORY "/home/maxjo/millispinner_cam_testing/ms_cam/build/usb_camera_driver/test" _BACKTRACE_TRIPLES "/opt/ros/humble/share/ament_cmake_test/cmake/ament_add_test.cmake;125;add_test;/opt/ros/humble/share/ament_cmake_gtest/cmake/ament_add_gtest_test.cmake;86;ament_add_test;/opt/ros/humble/share/ament_cmake_gtest/cmake/ament_add_gtest.cmake;93;ament_add_gtest_test;/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/test/CMakeLists.txt;1;ament_add_gtest;/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/test/CMakeLists.txt;0;")
+subdirs("../gtest")

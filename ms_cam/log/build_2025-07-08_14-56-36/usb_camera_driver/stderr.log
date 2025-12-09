@@ -1,0 +1,34 @@
+In file included from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/include/usb_camera_driver.hpp:37[m[K,
+                 from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/src/usb_camera_driver.cpp:28[m[K:
+[01m[K/opt/ros/humble/include/camera_info_manager/camera_info_manager/camera_info_manager.h:41:93:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: Warning: This header is deprecated. Use 'camera_info_manager.hpp' instead[m[K’
+   41 | age ("Warning: This header is deprecated. Use 'camera_info_manager.hpp' instead"[01;36m[K)[m[K
+      |                                                                                 [01;36m[K^[m[K
+
+In file included from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/include/usb_camera_driver.hpp:38[m[K,
+                 from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/src/usb_camera_driver.cpp:28[m[K:
+[01m[K/opt/ros/humble/include/image_transport/image_transport/image_transport.h:32:89:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: Warning: This header is deprecated. Use 'image_transport.hpp' instead[m[K’
+   32 | message ("Warning: This header is deprecated. Use 'image_transport.hpp' instead"[01;36m[K)[m[K
+      |                                                                                 [01;36m[K^[m[K
+
+In file included from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/include/usb_camera_driver.hpp:37[m[K,
+                 from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/src/usb_camera_driver_node.cpp:23[m[K:
+[01m[K/opt/ros/humble/include/camera_info_manager/camera_info_manager/camera_info_manager.h:41:93:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: Warning: This header is deprecated. Use 'camera_info_manager.hpp' instead[m[K’
+   41 | age ("Warning: This header is deprecated. Use 'camera_info_manager.hpp' instead"[01;36m[K)[m[K
+      |                                                                                 [01;36m[K^[m[K
+
+In file included from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/include/usb_camera_driver.hpp:38[m[K,
+                 from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/src/usb_camera_driver_node.cpp:23[m[K:
+[01m[K/opt/ros/humble/include/image_transport/image_transport/image_transport.h:32:89:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: Warning: This header is deprecated. Use 'image_transport.hpp' instead[m[K’
+   32 | message ("Warning: This header is deprecated. Use 'image_transport.hpp' instead"[01;36m[K)[m[K
+      |                                                                                 [01;36m[K^[m[K
+
+In file included from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/include/usb_camera_driver.hpp:37[m[K,
+                 from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/test/usb_camera_driver_tests.cpp:4[m[K:
+[01m[K/opt/ros/humble/include/camera_info_manager/camera_info_manager/camera_info_manager.h:41:93:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: Warning: This header is deprecated. Use 'camera_info_manager.hpp' instead[m[K’
+   41 | #pragma message ("Warning: This header is deprecated. Use 'camera_info_manager.hpp' instead"[01;36m[K)[m[K
+      |                                                                                             [01;36m[K^[m[K
+In file included from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/include/usb_camera_driver.hpp:38[m[K,
+                 from [01m[K/home/maxjo/millispinner_cam_testing/ms_cam/src/ros2_logitech_brio_publisher/test/usb_camera_driver_tests.cpp:4[m[K:
+[01m[K/opt/ros/humble/include/image_transport/image_transport/image_transport.h:32:89:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: Warning: This header is deprecated. Use 'image_transport.hpp' instead[m[K’
+   32 | #pragma message ("Warning: This header is deprecated. Use 'image_transport.hpp' instead"[01;36m[K)[m[K
+      |                                                                                         [01;36m[K^[m[K

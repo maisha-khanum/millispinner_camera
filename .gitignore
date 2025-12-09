@@ -1,0 +1,6 @@
+*.mp4
+*.lz4
+*.db3
+ms_cam/src/data/
+ms_cam/src/recordings/
+ms_cam/src/ros2_logitech_brio_publisher/
